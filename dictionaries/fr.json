@@ -1,0 +1,26 @@
+{
+  "navigation": {
+    "links": {
+      "programming": "Programmation",
+      "experience": "Expérience"
+    }
+  },
+  "buttons": {
+    "readMore": "Lire la suite",
+    "Adminstrator": "Administrateur"
+  },
+  "ctaCard": {
+    "title": "Codons, apprenons et créons ensemble des choses remarquables.",
+    "description": "Notre destination de prédilection pour tout ce qui concerne la programmation. Découvrez le monde du codage, des astuces de développement et des tendances technologiques de manière concise.",
+    "button": "S'abonner",
+    "placeholder": "Saisissez votre adresse e-mail.",
+    "subscriberText1": "Rejoignez nos",
+    "subscriberText2": "abonnés dès maintenant !"
+  },
+  "footer": {
+    "description": "Bienvenue sur le blog personnel de Fiston, où un jeune ingénieur logiciel partage son amour pour la programmation et ses connaissances avec le monde. Rejoignez Fiston alors qu'il explore divers sujets de programmation, offrant des conseils pratiques, des tutoriels et des aperçus de l'industrie. Codons, apprenons et créons ensemble des choses remarquables.",
+    "rightsText": "Tous droits réservés © ",
+    "creatorText": "Créé avec amour par ",
+    "CurrentlyAtText": "Actuellement à"
+  }
+}

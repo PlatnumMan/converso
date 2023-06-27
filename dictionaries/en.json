@@ -1,0 +1,26 @@
+{
+  "navigation": {
+    "links": {
+      "programming": "Programing",
+      "experience": "Experience"
+    }
+  },
+  "buttons": {
+    "readMore": "Read more",
+    "Adminstrator": "Adminstrator"
+  },
+  "ctaCard": {
+    "title": "Let's code, learn, and create remarkable things together.",
+    "description": "Our go-to destination for all things programming. Unlock the world of coding, development tips, and tech trends in a bite-sized format.",
+    "button": "Subscribe",
+    "placeholder": "Write your email.",
+    "subscriberText1": "Join our",
+    "subscriberText2": "subscribers now!"
+  },
+  "footer": {
+    "description": "Welcome to Fiston's Personal Blog, where a young software engineer shares his love for programming and knowledge with the world. Join Fiston as he explores various programming topics, offering practical tips, tutorials, and industry insights. Let's code, learn, and create remarkable things together.",
+    "rightsText": "All rights reserved © ",
+    "creatorText": "Made with love by @Fiston",
+    "CurrentlyAtText": "Currently At"
+  }
+}
