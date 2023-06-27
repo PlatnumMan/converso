@@ -56,7 +56,7 @@ const PostContent = async ({
       </h2>
       {/* Body */}
       <p className="text-base @lg:text-lg text-neutral-600 leading-snug">
-        {post.description}
+        {post.description.slice(0, 30)}
       </p>
       {!isPostPage && (
         <div className="flex items-center gap-2 pt-3">
